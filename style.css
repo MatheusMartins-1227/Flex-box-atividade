@@ -1,0 +1,40 @@
+.container {
+    background-color: gray;
+    display: flex;
+    margin: 5px;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.center 
+
+.filho {
+    width: 50px;
+    margin: 5px;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.azul-claro{
+    background-color: #63b1bc;
+}
+
+.azul-escuro {
+    background-color: #1f2a1f;
+    color: #ffff;
+}
+
+.rosa {
+    background-color: #ed145e;
+}
+
+.amarelo {
+background-color: #efb661;
+}
