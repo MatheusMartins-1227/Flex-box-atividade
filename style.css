@@ -4,15 +4,7 @@
     margin: 5px;
 }
 
-.start {
-    justify-content: flex-start;
-}
 
-.end {
-    justify-content: flex-end;
-}
-
-.center 
 
 .filho {
     width: 50px;
@@ -37,4 +29,38 @@
 
 .amarelo {
 background-color: #efb661;
+}
+
+
+.cont1 {
+    justify-content: flex-start;
+}
+
+.cont2 {
+    justify-content: flex-end;
+}
+
+.cont3 {
+    justify-content: center;
+}
+
+.cont4 {
+    justify-content: space-between;
+}
+
+.cont5 {
+    justify-content: space-around;
+}
+
+.cont6 {
+    justify-content: space-evenly;
+}
+
+.container-exercicioB {
+    flex-direction: column-reverse;
+}
+
+.cont-desafio {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
 }
